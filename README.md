@@ -1,6 +1,6 @@
 ### Hi there i'am pooya 👋
-i am softwear developer and currently i am working as a freelancer.
- i am passionate about developing web applications by java and java. since my first  java  letcher in university i do coding in java every day  :smiley::computer: 
+i am software developer and currently i am working as a freelancer.
+ i am passionate about developing web applications by java. since my first  java  lecture at university i do coding in java everyday  :smiley::computer: 
 ### my skils
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
  ![1_-uckV8DOh3l0bCvqZ73zYg](https://user-images.githubusercontent.com/23620993/129453557-badd412d-8a09-445c-a696-4d768aac5839.png)
